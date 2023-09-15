@@ -1,0 +1,9 @@
+SONAR_TOKEN
+
+8cd83367e55a061a19faf020a6db17cc8cd95580
+
+sonar-scanner.bat \
+  -D"sonar.organization=iaramendi0" \
+  -D"sonar.projectKey=iaramendi0_monopoly" \
+  -D"sonar.sources=." \
+  -D"sonar.host.url=https://sonarcloud.io"
