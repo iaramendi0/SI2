@@ -1,0 +1,1927 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 09:55:11 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 11732@MSI
+
+[2023-03-05 09:55:11 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 09:55:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 09:55:11 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 09:55:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 09:55:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 09:55:11 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 09:55:11 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 09:55:11 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 09:55:11 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 09:55:11 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 09:55:11 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 09:55:11 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 09:55:11 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 09:55:11 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 09:55:11 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 09:55:11 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 09:55:11 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 09:55:11 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 09:55:11 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 09:56:07 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 13404@MSI
+
+[2023-03-05 09:56:07 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 09:56:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 09:56:07 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 09:56:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 09:56:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 09:56:07 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 09:56:07 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 09:56:07 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 09:56:07 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 09:56:07 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 09:56:07 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 09:56:07 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 09:56:07 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 09:56:07 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 09:56:07 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 09:56:07 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 09:56:07 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 09:56:07 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 09:56:07 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 09:56:35 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 9436@MSI
+
+[2023-03-05 09:56:36 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 09:56:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 09:56:36 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 09:56:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 09:56:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 09:56:36 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 09:56:36 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 09:56:36 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 09:56:36 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 09:56:36 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 09:56:36 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 09:56:36 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 09:56:36 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 09:56:36 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 09:56:36 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 09:56:36 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 09:56:36 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 09:56:36 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 09:56:36 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 09:57:08 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 16092@MSI
+
+[2023-03-05 09:57:08 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 09:57:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 09:57:08 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 09:57:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 09:57:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 09:57:08 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 09:57:31 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 14208@MSI
+
+[2023-03-05 09:57:31 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 09:57:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 09:57:31 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 09:57:31 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 09:57:31 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 09:57:31 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 09:57:31 #8 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 09:57:31 #9 type.registry] 
+New type domain.Admin
+
+[2023-03-05 09:57:31 #10 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 09:57:31 #11 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 09:57:31 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 09:57:31 #13 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-03-05 09:57:42 #14 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 09:57:42 #15 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 09:57:42 #16 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 09:57:42 #17 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 09:57:42 #18 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 09:57:42 #19 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 09:57:42 #20 type] 
+Type domain.Aukera is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 10:28:48 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 21080@MSI
+
+[2023-03-05 10:28:49 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 10:28:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 10:28:49 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 10:28:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 10:28:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 10:28:49 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 10:28:49 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 10:28:49 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 10:28:49 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 10:28:49 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 10:28:49 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 10:28:49 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 10:28:49 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 10:28:49 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 10:28:49 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 10:28:49 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 10:28:49 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 10:28:49 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 10:28:49 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 10:29:39 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 13228@MSI
+
+[2023-03-05 10:29:40 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 10:29:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 10:29:40 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 10:29:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 10:29:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 10:29:40 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 10:29:40 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 10:29:40 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 10:29:40 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 10:29:40 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 10:29:40 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 10:29:40 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 10:29:40 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 10:29:40 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 10:29:40 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 10:29:40 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 10:29:40 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 10:29:40 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 10:29:40 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 10:42:40 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 26280@MSI
+
+[2023-03-05 10:42:41 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 10:42:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 10:42:41 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 10:42:41 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 10:42:41 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 10:42:41 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 10:42:41 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 10:42:41 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 10:42:41 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 10:42:41 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 10:42:41 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 10:42:41 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 10:42:41 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 10:42:41 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 10:42:41 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 10:42:41 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 10:42:41 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 10:42:41 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 10:42:41 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 10:42:53 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 26020@MSI
+
+[2023-03-05 10:42:53 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 10:42:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 10:42:53 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 10:42:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 10:42:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 10:42:53 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 10:42:53 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 10:42:53 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 10:42:53 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 10:42:53 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 10:42:53 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 10:42:53 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 10:42:53 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 10:42:53 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 10:42:53 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 10:42:53 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 10:42:53 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 10:42:53 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 10:42:53 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 10:43:20 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 25880@MSI
+
+[2023-03-05 10:43:20 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 10:43:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 10:43:20 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 10:43:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 10:43:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 10:43:20 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 10:43:20 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 10:43:20 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 10:43:20 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 10:43:20 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 10:43:20 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 10:43:20 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 10:43:20 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 10:43:20 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 10:43:20 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 10:43:20 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 10:43:20 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 10:43:20 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 10:43:21 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 10:44:10 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 24760@MSI
+
+[2023-03-05 10:44:10 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 10:44:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 10:44:10 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 10:44:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 10:44:10 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 10:44:10 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 10:44:10 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 10:44:10 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 10:44:10 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 10:44:10 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 10:44:10 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 10:44:10 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 10:44:10 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 10:44:10 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 10:44:10 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 10:44:10 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 10:44:10 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 10:44:10 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 10:44:10 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 10:44:38 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 24592@MSI
+
+[2023-03-05 10:44:38 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 10:44:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 10:44:38 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 10:44:38 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 10:44:38 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 10:44:38 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 10:44:38 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 10:44:38 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 10:44:38 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 10:44:38 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 10:44:38 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 10:44:38 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 10:44:38 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 10:44:38 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 10:44:38 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 10:44:38 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 10:44:38 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 10:44:38 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 10:44:38 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 11:36:53 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 20220@MSI
+
+[2023-03-05 11:36:54 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 11:36:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 11:36:54 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 11:36:54 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 11:36:54 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 11:36:54 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 11:36:54 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 11:36:54 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 11:36:54 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 11:36:54 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 11:36:54 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 11:36:54 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 11:36:54 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 11:36:54 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 11:36:54 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 11:36:54 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 11:36:54 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 11:36:54 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 11:36:54 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 11:37:19 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 22068@MSI
+
+[2023-03-05 11:37:19 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 11:37:19 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 11:37:19 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 11:37:19 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 11:37:19 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 11:37:19 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 11:37:19 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 11:37:19 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 11:37:19 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 11:37:19 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 11:37:19 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 11:37:19 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 11:37:19 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 11:37:19 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 11:37:19 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 11:37:19 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 11:37:19 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 11:37:19 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 11:37:19 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 11:47:32 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 19960@MSI
+
+[2023-03-05 11:48:07 #2 type.registry] 
+New type domain.Question
+
+[2023-03-05 11:48:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 11:48:07 #4 type.registry] 
+New type domain.Event
+
+[2023-03-05 11:48:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 11:48:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-05 11:48:07 #7 type.registry] 
+New type domain.User
+
+[2023-03-05 11:48:07 #8 type.registry] 
+New type domain.Erregistratua
+
+[2023-03-05 11:48:07 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 11:48:07 #10 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 11:48:07 #11 type.registry] 
+New type domain.Apostua
+
+[2023-03-05 11:48:07 #12 type.registry] 
+New type java.util.Vector<domain.Apostua>
+
+[2023-03-05 11:48:07 #13 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 11:48:08 #14 type.registry] 
+New type domain.Aukera
+
+[2023-03-05 11:48:08 #15 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 11:48:08 #16 type.registry] 
+New type domain.Editorea
+
+[2023-03-05 11:48:08 #17 type.registry] 
+New type domain.Admin
+
+[2023-03-05 11:48:08 #18 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 11:48:08 #19 type] 
+Type domain.Admin is not enhanced.
+
+[2023-03-05 11:48:08 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 12:20:28 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2023-03-05 12:20:28 #2 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 26904@MSI
+
+[2023-03-05 12:20:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 12:20:28 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 12:20:28 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 12:20:28 #6 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 12:20:28 #7 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 12:20:28 #8 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 12:20:28 #9 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 12:20:28 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 12:20:52 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2023-03-05 12:20:52 #2 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 26940@MSI
+
+[2023-03-05 12:20:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 12:20:52 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 12:20:52 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 12:20:52 #6 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 12:20:52 #7 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 12:20:52 #8 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 12:20:52 #9 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 12:20:52 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 12:49:31 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 26148@MSI
+
+[2023-03-05 12:49:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 12:49:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 12:49:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 12:49:31 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 12:49:31 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 12:49:31 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 12:49:31 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 12:49:31 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 12:50:11 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 9-9)
+
+[2023-03-05 12:50:11 #2 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 26204@MSI
+
+[2023-03-05 12:50:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 12:50:11 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 12:50:11 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 12:50:11 #6 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 12:50:11 #7 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 12:50:11 #8 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 12:50:11 #9 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 12:50:11 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 12:50:24 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 25688@MSI
+
+[2023-03-05 12:50:24 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 12:50:24 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 12:50:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 12:50:24 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 12:50:24 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 12:50:24 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 12:50:24 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 12:50:24 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 12:50:50 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 13396@MSI
+
+[2023-03-05 12:50:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 12:50:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 12:50:50 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 12:50:50 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 12:50:50 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 12:50:50 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 12:50:50 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 12:50:50 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 12:50:58 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 12540@MSI
+
+[2023-03-05 12:50:58 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 12:50:58 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 12:50:58 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 12:50:58 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 12:50:58 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 12:50:58 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 12:50:58 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 12:50:58 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:35:52 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 23492@MSI
+
+[2023-03-05 17:35:53 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:35:53 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:35:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:35:53 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:35:53 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:35:53 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:35:53 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:35:53 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:38:17 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 4984@MSI
+
+[2023-03-05 17:38:17 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:38:17 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:38:17 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:38:17 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:38:17 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:38:17 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:38:17 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:38:17 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:43:55 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 18808@MSI
+
+[2023-03-05 17:43:56 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:43:56 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:43:56 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:43:56 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:43:56 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:43:56 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:43:56 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:43:56 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:44:48 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 23212@MSI
+
+[2023-03-05 17:44:48 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:44:48 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:44:48 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:44:48 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:44:48 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:44:48 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:44:48 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:44:48 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:45:14 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 20932@MSI
+
+[2023-03-05 17:45:14 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:45:14 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:45:14 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:45:14 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:45:14 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:45:14 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:45:14 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:45:14 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:45:55 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 15408@MSI
+
+[2023-03-05 17:45:55 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:45:55 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:45:55 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:45:55 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:45:55 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:45:55 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:45:55 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:45:55 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:47:51 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 10-10)
+
+[2023-03-05 17:47:51 #2 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 11812@MSI
+
+[2023-03-05 17:47:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:47:51 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:47:51 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:47:51 #6 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:47:51 #7 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:47:51 #8 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:47:51 #9 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:47:51 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:59:13 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 27580@MSI
+
+[2023-03-05 17:59:13 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:59:13 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:59:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:59:13 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:59:13 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:59:13 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:59:13 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:59:13 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 17:59:30 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 21944@MSI
+
+[2023-03-05 17:59:30 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 17:59:30 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 17:59:30 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 17:59:30 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 17:59:30 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 17:59:30 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 17:59:30 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 17:59:30 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 18:03:41 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 10788@MSI
+
+[2023-03-05 18:03:41 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 18:03:41 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 18:03:41 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 18:03:41 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 18:03:41 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 18:03:41 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 18:03:41 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 18:03:41 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 19:22:06 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 7084@MSI
+
+[2023-03-05 19:22:07 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 19:22:07 #3 type.registry] 
+New type java.util.Vector<domain.Aukera>
+
+[2023-03-05 19:22:07 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 19:22:07 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 19:22:07 #6 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 19:22:07 #7 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 19:22:07 #8 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 19:22:07 #9 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 19:22:07 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 19:23:17 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 11-11)
+
+[2023-03-05 19:23:17 #2 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 22800@MSI
+
+[2023-03-05 19:23:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 19:23:17 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 19:23:17 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 19:23:17 #6 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 19:23:17 #7 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 19:23:17 #8 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 19:23:17 #9 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 19:23:17 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 19:34:48 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 20924@MSI
+
+[2023-03-05 19:34:48 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 19:34:48 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 19:34:48 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 19:34:48 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 19:34:48 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 19:34:48 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 19:34:48 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 19:34:48 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 19:42:43 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 23508@MSI
+
+[2023-03-05 19:42:43 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 19:42:43 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 19:42:43 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 19:42:43 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 19:42:43 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 19:42:43 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 19:42:43 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 19:42:43 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 19:46:14 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 12-12)
+
+[2023-03-05 19:46:14 #2 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 15464@MSI
+
+[2023-03-05 19:46:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 19:46:14 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 19:46:14 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 19:46:14 #6 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 19:46:14 #7 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 19:46:14 #8 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 19:46:14 #9 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 19:46:14 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 19:51:18 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 16752@MSI
+
+[2023-03-05 19:51:18 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 19:51:18 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 19:51:18 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 19:51:18 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 19:51:18 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 19:51:18 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 19:51:18 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 19:51:18 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 20:31:09 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 20684@MSI
+
+[2023-03-05 20:31:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 20:31:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 20:31:09 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 20:31:09 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 20:31:09 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 20:31:09 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 20:31:09 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 20:31:09 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 20:31:51 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 22876@MSI
+
+[2023-03-05 20:31:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 20:31:51 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 20:31:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 20:31:51 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 20:31:51 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 20:31:51 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 20:31:51 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 20:31:51 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 22:36:45 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 13596@MSI
+
+[2023-03-05 22:36:46 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 22:36:46 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 22:36:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 22:36:46 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 22:36:46 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 22:36:46 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 22:36:46 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 22:36:46 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 22:54:14 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 7848@MSI
+
+[2023-03-05 22:54:14 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 22:54:14 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 22:54:14 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 22:54:14 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 22:54:14 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 22:54:14 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 22:54:14 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 22:54:14 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 22:58:17 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 18556@MSI
+
+[2023-03-05 22:58:17 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 22:58:17 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 22:58:17 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 22:58:17 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 22:58:17 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 22:58:17 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 22:58:17 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 22:58:17 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 22:58:50 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 19116@MSI
+
+[2023-03-05 22:58:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 22:58:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 22:58:50 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 22:58:50 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 22:58:50 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 22:58:50 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 22:58:50 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 22:58:50 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 23:12:19 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 1640@MSI
+
+[2023-03-05 23:12:19 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 23:12:19 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 23:12:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 23:12:19 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 23:12:19 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 23:12:19 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 23:12:19 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 23:12:19 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 23:13:58 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 21448@MSI
+
+[2023-03-05 23:13:59 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 23:13:59 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 23:13:59 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 23:13:59 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 23:13:59 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 23:13:59 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 23:13:59 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 23:13:59 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 23:20:40 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 4168@MSI
+
+[2023-03-05 23:20:40 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 23:20:40 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 23:20:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 23:20:40 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 23:20:40 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 23:20:40 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 23:20:40 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 23:20:40 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 23:21:45 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 19424@MSI
+
+[2023-03-05 23:21:45 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 23:21:45 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 23:21:45 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 23:21:45 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 23:21:45 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 23:21:45 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 23:21:45 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 23:21:45 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 23:22:54 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 13248@MSI
+
+[2023-03-05 23:22:54 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 23:22:54 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 23:22:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 23:22:54 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 23:22:54 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 23:22:54 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 23:22:54 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 23:22:54 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-05 23:28:00 #1 store] 
+Database 'C:\Users\carre\git\Bets21\src\main\resources\bets.temp' is opened by 18304@MSI
+
+[2023-03-05 23:28:00 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-05 23:28:00 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-05 23:28:00 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-03-05 23:28:00 #5 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-03-05 23:28:00 #6 type] 
+Type domain.Apostua is not enhanced.
+
+[2023-03-05 23:28:00 #7 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-03-05 23:28:00 #8 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-03-05 23:28:00 #9 type] 
+Type domain.Admin is not enhanced.
+

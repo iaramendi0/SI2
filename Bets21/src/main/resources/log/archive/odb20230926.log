@@ -1,0 +1,92 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-09-26 14:20:43 #1 store] 
+Database 'C:\Users\carre\OneDrive\Escritorio\SI2_Proiektua\kodea16.zip_expanded\Bets21\src\main\resources\bets.temp' is opened by 13352@MSI
+
+[2023-09-26 14:20:44 #2 type.registry] 
+New type domain.Aukera
+
+[2023-09-26 14:20:44 #3 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-09-26 14:20:44 #4 type.registry] 
+New type domain.Apustua
+
+[2023-09-26 14:20:44 #5 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2023-09-26 14:20:44 #6 type.registry] 
+New type domain.Question
+
+[2023-09-26 14:20:44 #7 type] 
+Type domain.Apustua is not enhanced.
+
+[2023-09-26 14:20:44 #8 type.registry] 
+New type java.util.ArrayList<domain.Aukera>
+
+[2023-09-26 14:20:44 #9 type] 
+Type domain.Question is not enhanced.
+
+[2023-09-26 14:20:44 #10 type.registry] 
+New type java.util.Vector<domain.Aukera>
+
+[2023-09-26 14:20:44 #11 type.registry] 
+New type domain.Event
+
+[2023-09-26 14:20:44 #12 type] 
+Type domain.Event is not enhanced.
+
+[2023-09-26 14:20:44 #13 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-09-26 14:20:44 #14 type.registry] 
+New type domain.User
+
+[2023-09-26 14:20:44 #15 type.registry] 
+New type domain.Erregistratua
+
+[2023-09-26 14:20:44 #16 type] 
+Type domain.User is not enhanced.
+
+[2023-09-26 14:20:44 #17 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-09-26 14:20:44 #18 type.registry] 
+New type domain.Mezua
+
+[2023-09-26 14:20:44 #19 type.registry] 
+New type java.util.ArrayList<domain.Mezua>
+
+[2023-09-26 14:20:44 #20 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2023-09-26 14:20:44 #21 type.registry] 
+New type domain.Mugimendua
+
+[2023-09-26 14:20:44 #22 type.registry] 
+New type java.util.ArrayList<domain.Mugimendua>
+
+[2023-09-26 14:20:44 #23 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-09-26 14:20:44 #24 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-09-26 14:20:44 #25 type.registry] 
+New type domain.Admin
+
+[2023-09-26 14:20:44 #26 type] 
+Type domain.Admin is not enhanced.
+
+[2023-09-26 14:20:44 #27 type.registry] 
+New type domain.Editorea
+
+[2023-09-26 14:20:44 #28 type] 
+Type domain.Editorea is not enhanced.
+
+[2023-09-26 14:20:44 #29 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-09-26 14:20:44 #30 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
